@@ -1,0 +1,15 @@
+[
+    {
+        "id": "post1",
+        "title": "Lorem ipsum odor amet, consectetuer adipiscing elit",
+        "intro": "Lorem ipsum odor amet, consectetuer adipiscing elit. Vestibulum sem amet aliquet; lacinia ac aliquam. Nascetur hendrerit cursus, turpis per posuere dignissim. Nisl consequat sed cursus eleifend lacus. Aerat magnis turpis magnis rhoncus porta consectetur. Phasellus sagittis felis fames efficitur penatibus nisi senectus.",
+        "image": "post1.jpg"
+    },
+    {
+        "id": "post2",
+        "title": "Another interesting post title",
+        "intro": "Introduction text for the second post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum viverra, turpis nec ullamcorper vehicula, erat lorem consectetur felis.",
+        "image": "post2.jpg"
+    }
+    // Add more posts as needed
+]
